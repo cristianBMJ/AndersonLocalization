@@ -1,2 +1,2 @@
-# LocalizationAndersson
-Phenomenon Physics present in one Discrete Quantum Mechanics
+#Anderson Localization
+Phenomenon Physics is present over a Discrete Quantum Mechanics System, in a medium disorder. 
